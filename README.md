@@ -1,5 +1,5 @@
 ## Twitter Lyrics Bot
-Python program that gets songs and lyrics from artist of user choice and uses AWS lambda automatically to tweet lyrics 
+Python program that gets songs and lyrics from artist of user choice and uses AWS Lambda automatically to tweet lyrics 
 
 Example with MF Doom, a rapper known for his incredible rhyme schemes:
 https://twitter.com/mf_doom_lyric
